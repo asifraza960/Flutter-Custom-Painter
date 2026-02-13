@@ -2,14 +2,7 @@
 
 # Custom Clock Design Preview
 
-
-
-
-
-
-
-
-
+<img width="1920" height="1440" alt="489shots_so" src="https://github.com/user-attachments/assets/796cd2c2-9022-41fb-9de7-ac71aaee71ec" />
 
 
 
