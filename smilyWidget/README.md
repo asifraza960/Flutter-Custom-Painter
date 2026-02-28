@@ -1,16 +1,15 @@
-# painter
+# 😊 Smile Widget – Flutter CustomPainter
 
-A new Flutter project.
+✨ Features
 
-## Getting Started
+🎨 Built completely using CustomPainter
 
-This project is a starting point for a Flutter application.
+😊 Custom smile face UI
 
-A few resources to get you started if this is your first Flutter project:
+🌙 Supports theme customization (optional if you added it)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📱 Responsive design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Lightweight and performance friendly
+
+<img width="1920" height="1440" alt="715shots_so" src="https://github.com/user-attachments/assets/e6318cb7-67d3-4f70-92c5-f126da887891" />
